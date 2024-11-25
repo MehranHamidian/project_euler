@@ -1,0 +1,7 @@
+[package]
+name = "problem_5"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+project_euler_lib = "0.1.0"
